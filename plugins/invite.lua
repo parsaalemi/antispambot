@@ -39,8 +39,8 @@ return {
     "/inv user (@user) : invite by username", 
     "/inv id (id) : invite by id number" },
   patterns = {
-    "^[*#]inv (user) (.*)$",
-    "^[*#]inv (id) (%d+)$"
+    "^[!/]inv (user) (.*)$",
+    "^[!/]inv (id) (%d+)$"
   }, 
   run = run,
   moderation = true 
