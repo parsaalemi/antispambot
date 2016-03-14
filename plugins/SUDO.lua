@@ -3,9 +3,10 @@ do
 function run(msg, matches)
   return [[
   ًں‘¥Sudoers of Infernal : 
-  ًں”­ @ArashInfernal 109722284ًں‘¥
-  ًں”­ @Mustafaflux 171604508 ًں‘¥ 
-  ًں”­ @digitalboys  99743635 ًں‘¥
+  @parsaalemi 105831687   
+  @Hossein_yzzz 123627901
+  @samramezani 122997453
+  @kingsudo 134461890
   ]]
 
   end
