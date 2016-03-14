@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
   return [[
-  ًں‘¥Sudoers of Infernal : 
+  sudoers of spam killer : 
   @parsaalemi 105831687   
   @Hossein_yzzz 123627901
   @samramezani 122997453
