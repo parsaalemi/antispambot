@@ -251,7 +251,8 @@ function create_config( )
     "Web_Shot",
     "wiki",
     "Help",
-    "Dictionary"
+    "Dictionary",
+    "vote"
     },
     sudo_users = {105831687,123627901,68395270,122997453,134461890,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
