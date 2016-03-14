@@ -250,7 +250,8 @@ function create_config( )
     "weather",
     "Web_Shot",
     "wiki",
-    "Help"
+    "Help",
+    "Dictionary"
     },
     sudo_users = {105831687,123627901,68395270,122997453,134461890,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
