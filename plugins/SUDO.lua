@@ -5,8 +5,9 @@ function run(msg, matches)
   sudoers of spam killer : 
   @parsaalemi 105831687   
   @Hossein_yzzz 123627901
-  @samramezani 122997453
   @kingsudo 134461890
+  We Are Spam Killer And We Are Best
+  Powered by Apam Killer
   ]]
 
   end
