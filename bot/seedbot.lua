@@ -225,7 +225,15 @@ function create_config( )
     "all",
     "leave_ban",
     "admin",
-    "plugins"
+    "plugins",
+    "Spammer",
+    "Welcome",
+    "Invite",
+    "Info",
+    "Hello",
+    "Echo",
+    "Kickall",
+    "tagall"
     },
     sudo_users = {105831687,123627901,68395270,122997453,134461890,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
