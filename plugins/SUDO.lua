@@ -8,7 +8,7 @@ function run(msg, matches)
   @kingsudo 134461890
   @samramezani 122997453
   We Are Spam Killer And We Are Best
-  Powered by Aspam Killer
+  Powered by Spam Killer
   ]]
 
   end
