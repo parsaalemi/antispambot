@@ -6,7 +6,6 @@ function run(msg, matches)
   @parsaalemi 105831687   
   @Hossein_yzzz 123627901
   @kingsudo 134461890
-  @samramezani 122997453
   We Are Spam Killer And We Are Best
   Powered by Spam Killer
   ]]
